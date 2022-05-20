@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectMayhemContentFramework.Content
+namespace ProjectFramework.Content
 {
     public class Map
     {

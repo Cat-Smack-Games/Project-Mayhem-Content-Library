@@ -1,0 +1,9 @@
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\bin\Debug\net452\ProjectFramework.dll
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\bin\Debug\net452\ProjectFramework.pdb
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net452\ProjectFramework.csproj.AssemblyReference.cache
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net452\ProjectFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net452\ProjectFramework.AssemblyInfoInputs.cache
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net452\ProjectFramework.AssemblyInfo.cs
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net452\ProjectFramework.csproj.CoreCompileInputs.cache
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net452\ProjectFramework.dll
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net452\ProjectFramework.pdb

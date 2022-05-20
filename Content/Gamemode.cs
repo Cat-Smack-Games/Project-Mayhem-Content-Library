@@ -4,7 +4,7 @@ using System.Text;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace ProjectMayhemContentFramework.Content
+namespace ProjectFramework.Content
 {
 
     public abstract class Gamemode

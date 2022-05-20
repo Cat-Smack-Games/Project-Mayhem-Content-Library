@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dusti\\source\\repos\\ProjectFramework\\ProjectFramework\\ProjectFramework.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dusti\\source\\repos\\ProjectFramework\\ProjectFramework\\ProjectFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dusti\\source\\repos\\ProjectFramework\\ProjectFramework\\ProjectFramework.csproj",
+        "projectName": "ProjectFramework",
+        "projectPath": "C:\\Users\\dusti\\source\\repos\\ProjectFramework\\ProjectFramework\\ProjectFramework.csproj",
+        "packagesPath": "C:\\Users\\dusti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dusti\\source\\repos\\ProjectFramework\\ProjectFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dusti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "targetAlias": "net452",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

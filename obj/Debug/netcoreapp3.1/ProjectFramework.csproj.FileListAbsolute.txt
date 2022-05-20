@@ -1,0 +1,10 @@
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\bin\Debug\netcoreapp3.1\ProjectFramework.deps.json
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\bin\Debug\netcoreapp3.1\ProjectFramework.dll
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\bin\Debug\netcoreapp3.1\ProjectFramework.pdb
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\netcoreapp3.1\ProjectFramework.csproj.AssemblyReference.cache
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\netcoreapp3.1\ProjectFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\netcoreapp3.1\ProjectFramework.AssemblyInfoInputs.cache
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\netcoreapp3.1\ProjectFramework.AssemblyInfo.cs
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\netcoreapp3.1\ProjectFramework.csproj.CoreCompileInputs.cache
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\netcoreapp3.1\ProjectFramework.dll
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\netcoreapp3.1\ProjectFramework.pdb

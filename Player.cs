@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectMayhemContentFramework
+namespace ProjectFramework
 {
     public class Player
     {

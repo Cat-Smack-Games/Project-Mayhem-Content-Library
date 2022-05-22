@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectMayhemContentFramework
 {
+    [Serializable]
     public class Player
     {
         public string Username { get; set; }

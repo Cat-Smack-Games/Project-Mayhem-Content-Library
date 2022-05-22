@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace ProjectMayhemContentFramework.Content
 {
+    [Serializable]
     public class Map
     {
         public string id { get; }

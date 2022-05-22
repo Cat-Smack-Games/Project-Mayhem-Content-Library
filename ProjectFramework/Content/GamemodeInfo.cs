@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectMayhemContentFramework.Content
 {
+    [Serializable]
     public class GamemodeInfo
     {
         public string gamemode_id;

@@ -1,11 +1,17 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net452</TargetFramework>
+    <TargetFramework>net45</TargetFramework>
   </PropertyGroup>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
     <Exec Command="build.bat" />
   </Target>
+
+  <ItemGroup>
+    <Reference Include="ObjParser">
+      <HintPath>..\..\..\..\Documents\Coding Projects\ObjParser\ObjParser\bin\Debug\ObjParser.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 
 </Project>

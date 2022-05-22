@@ -6,9 +6,10 @@ using System.Collections.Generic;
 
 namespace ProjectMayhemContentFramework.Content
 {
-
+    [Serializable]
     public abstract class Gamemode
     {
+        
         private GamemodeInfo gamemodeInfo;
         private List<string> classes = new List<string>();
 
@@ -22,6 +23,9 @@ namespace ProjectMayhemContentFramework.Content
             gamemodeInfo = gmInfo;
         }
         public abstract void Init();
+        public abstract void OnPlayerJoin(Player player);
+        public abstract void OnPlayerLeave(Player player);
+
 
         public void Update(){
         }

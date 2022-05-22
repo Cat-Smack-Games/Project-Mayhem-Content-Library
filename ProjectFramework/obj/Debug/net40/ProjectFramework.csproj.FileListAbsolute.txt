@@ -1,0 +1,9 @@
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\bin\Debug\net40\ProjectFramework.dll
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\bin\Debug\net40\ProjectFramework.pdb
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net40\ProjectFramework.csproj.AssemblyReference.cache
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net40\ProjectFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net40\ProjectFramework.AssemblyInfoInputs.cache
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net40\ProjectFramework.AssemblyInfo.cs
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net40\ProjectFramework.csproj.CoreCompileInputs.cache
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net40\ProjectFramework.dll
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net40\ProjectFramework.pdb

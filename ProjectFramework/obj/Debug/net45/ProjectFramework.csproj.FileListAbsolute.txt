@@ -1,0 +1,12 @@
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\bin\Debug\net45\ProjectFramework.dll
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\bin\Debug\net45\ProjectFramework.pdb
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\bin\Debug\net45\ObjParser.dll
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\bin\Debug\net45\ObjParser.pdb
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net45\ProjectFramework.csproj.AssemblyReference.cache
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net45\ProjectFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net45\ProjectFramework.AssemblyInfoInputs.cache
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net45\ProjectFramework.AssemblyInfo.cs
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net45\ProjectFramework.csproj.CoreCompileInputs.cache
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net45\ProjectFramework.csproj.CopyComplete
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net45\ProjectFramework.dll
+C:\Users\dusti\source\repos\ProjectFramework\ProjectFramework\obj\Debug\net45\ProjectFramework.pdb
